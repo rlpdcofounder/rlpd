@@ -2,6 +2,7 @@
 *.d
 rlpd
 .clang-format
+*.prn
 
 # Compiled Object files
 *.slo
